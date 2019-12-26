@@ -1,0 +1,8 @@
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\bin\Debug\Markov.exe.config
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\bin\Debug\Markov.exe
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\bin\Debug\Markov.pdb
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\obj\Debug\MarkovForm.Form1.resources
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\obj\Debug\Markov.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\obj\Debug\Markov.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\obj\Debug\Markov.exe
+C:\Users\User\Source\Repos\Algorithm_Markov_chain\obj\Debug\Markov.pdb
